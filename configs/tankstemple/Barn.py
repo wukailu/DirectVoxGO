@@ -4,7 +4,7 @@ expname = 'dvgo_Barn'
 basedir = './logs/tanks_and_temple'
 
 data = dict(
-    datadir='./data/TanksAndTemple/Barn',
+    datadir='/data/nerf_data/TanksAndTemple/Barn',
     dataset_type='tankstemple',
     inverse_y=True,
     load2gpu_on_the_fly=True,

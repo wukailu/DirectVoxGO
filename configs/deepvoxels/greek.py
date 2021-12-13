@@ -4,7 +4,7 @@ expname = 'dvgo_greek'
 basedir = './logs/deepvoxels'
 
 data = dict(
-    datadir='./data/deepvoxels/',
+    datadir='/data/nerf_data/deepvoxels/',
     dataset_type='deepvoxels',
     scene='greek',
     white_bkgd=True,

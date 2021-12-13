@@ -4,7 +4,7 @@ expname = 'dvgo_drums'
 basedir = './logs/nerf_synthetic'
 
 data = dict(
-    datadir='./data/nerf_synthetic/drums',
+    datadir='/data/nerf_data/nerf_synthetic/drums',
     dataset_type='blender',
     white_bkgd=True,
 )

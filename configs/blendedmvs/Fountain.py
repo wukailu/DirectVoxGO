@@ -4,7 +4,7 @@ expname = 'dvgo_Fountain'
 basedir = './logs/blended_mvs'
 
 data = dict(
-    datadir='./data/BlendedMVS/Fountain/',
+    datadir='/data/nerf_data/BlendedMVS/Fountain/',
     dataset_type='blendedmvs',
     inverse_y=True,
     white_bkgd=False,

@@ -4,7 +4,7 @@ expname = 'dvgo_Spaceship'
 basedir = './logs/nsvf_synthetic'
 
 data = dict(
-    datadir='./data/Synthetic_NSVF/Spaceship',
+    datadir='/data/nerf_data/Synthetic_NSVF/Spaceship',
     dataset_type='nsvf',
     inverse_y=True,
     white_bkgd=True,

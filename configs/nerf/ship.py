@@ -4,7 +4,7 @@ expname = 'dvgo_ship'
 basedir = './logs/nerf_synthetic'
 
 data = dict(
-    datadir='./data/nerf_synthetic/ship',
+    datadir='/data/nerf_data/nerf_synthetic/ship',
     dataset_type='blender',
     white_bkgd=True,
 )
